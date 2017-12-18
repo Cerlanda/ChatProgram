@@ -1,1 +1,1 @@
-# ChatProgram
+# ChatProgram for miniproject
