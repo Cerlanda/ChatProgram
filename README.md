@@ -1,10 +1,10 @@
 # ChatProgram for miniproject
 This Mini Project is created in by:<br>
-Name1<br>
-Name2<br>
-Name3<br>
-Name4<br>
-Name5<br><br>
+<b>Name1</b><br>
+<b>Name2</b><br>
+<b>Name3</b><br>
+<b>Name4</b><br>
+<b>Name5</b><br><br>
 
 In order to have the program working, a few changes are necessary. Here is a small guide, which describes step-by-step on what needs to be done:<br><br>
 
