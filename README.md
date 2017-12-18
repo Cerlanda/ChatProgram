@@ -21,6 +21,6 @@ Now the server is good to go. Let's continue with the client.<br>
 10: Open the Project2.sln file.<br>
 11: Edit #define IP_ADDRESS to your ip: Remember quotation marks.<br>
 12: Edit #define DEFAULT_PORT to your port: Remeber quotation marks.<br>
-Note: It is very important that the server and client have the same IP-address and Port, otherwise the program will not run.<br><br>
+Note: It is <b>very</b> important that the server and client have the same IP-address and Port, otherwise the program will not run.<br><br>
 
 You are now good to go. You can open multiple clients as well.
